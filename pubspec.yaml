@@ -12,7 +12,7 @@ dependencies:
   # Base
   cupertino_icons: ^1.0.3
   nb_utils: ^4.2.10
-  intl: ^0.17.0
+  intl: ^0.18.0
   flutter_vector_icons: ^1.0.0
   google_fonts: ^2.1.0
 
