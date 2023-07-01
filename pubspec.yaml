@@ -12,7 +12,7 @@ dependencies:
   # Base
   cupertino_icons: ^1.0.3
   nb_utils: ^4.2.10
-  intl: ^0.18.0
+  intl: 
   flutter_vector_icons: ^1.0.0
   google_fonts: ^2.1.0
 
@@ -34,7 +34,7 @@ dependencies:
 
   # AUTHENTICATION
   google_sign_in: ^5.0.4
-  local_auth: ^1.1.6
+  local_auth: 
 
   # STATE MANAGEMENT
   mobx: ^2.0.1
